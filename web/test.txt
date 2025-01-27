@@ -1,5 +1,6 @@
 y otro cambio
 a
+c
 este es un cambio que afecta al repo principal
 nuevo cambio desde organizacion
 este es un cambio sin afectar
