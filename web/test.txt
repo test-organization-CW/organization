@@ -1,8 +1,1 @@
-y otro cambio
-a
-b
-c
-este es un cambio que afecta al repo principal
-nuevo cambio desde organizacion
-este es un cambio sin afectar
-subo cambio afectando ambos repos
+EN ESTE REPO PROGRAMAMOS WEB
